@@ -8,7 +8,7 @@ Software Engineer with strong design and problem-solving skills. Passionate abou
 
 * 🌍  I'm based in Assam, India
 * ✉️  You can contact me at [mousam.kalita.official@gmail.com](mailto:mousam.kalita.official@gmail.com)
-* 🚀  I'm currently working on [Premagic](http://app.premagic.com)
+* 🚀  I'm currently working on [Premagic](http://app.premagic.com) Software
 * 🧠  I'm learning Frontend/React/Javascript
 * 🤝  I'm open to collaborating on Creative projects
 * ⚡  My interests are Art, Rap, Reading books, Psychology, E-sports etc.
