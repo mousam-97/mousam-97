@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mousam Kalita
 =====================================================================================================================================
 
-Software Engineer (Frontend)
+Software Engineer (Front End)
 ----------------------------
 
 Software Engineer with strong design and problem-solving skills. Passionate about building Great Products. Working experience with Fortune 500 companies as well as early stage product-based startups. The Mission and Passion of my life is to empower Humanity through Technology.
