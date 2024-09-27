@@ -6,7 +6,7 @@ Software Engineer (Front End)
 
 Software Engineer with strong design and problem-solving skills. Passionate about building Great Products. Working experience with Fortune 500 companies as well as early stage product-based startups. The Mission and Passion of my life is to empower Humanity through Technology.
 
-* 🌍  I'm based in Assam, India
+* 🌍  I'm based in India
 * ✉️  You can contact me at [mousam.kalita.official@gmail.com](mailto:mousam.kalita.official@gmail.com)
 * 🚀  I'm currently working on [Premagic](http://app.premagic.com) Software
 * 🧠  I'm learning Frontend/React/Javascript
