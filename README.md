@@ -11,11 +11,11 @@ Over the past 5+ years, I've worked across enterprise consulting and early-stage
 My strongest expertise is in React, TypeScript, Next.js, and frontend architecture, but I'm equally interested in product thinking and enjoy working across the stack when needed using technologies like Node.js, Supabase, PostgreSQL, and AI APIs. I particularly enjoy building AI-native experiences, real-time applications, workflow automation, and developer-focused tools.
 
 Some of the work I'm most proud of includes:
-• Delivering enterprise solutions for organizations including Mercedes, Samsung, Adobe, Shell, Rashtrapati Bhavan, and Accel.
-• Helping architect core features for a platform serving 4M+ daily digital assets.
-• Building AI-powered product experiences and streaming LLM interfaces.
-• Optimizing large-scale media processing using WebAssembly and Web Workers.
-• Working as an early engineering hire to help shape products from 0→1.
+* Delivering enterprise solutions for organizations including Mercedes, Samsung, Adobe, Shell, Rashtrapati Bhavan, and Accel.
+* Helping architect core features for a platform serving 4M+ daily digital assets.
+* Building AI-powered product experiences and streaming LLM interfaces.
+* Optimizing large-scale media processing using WebAssembly and Web Workers.
+* Working as an early engineering hire to help shape products from 0→1.
 
 I'm always interested in opportunities where I can combine strong engineering fundamentals with product ownership to build software that users genuinely enjoy using.
 
