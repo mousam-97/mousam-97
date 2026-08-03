@@ -20,9 +20,9 @@ Some of the work I'm most proud of includes:
 I'm always interested in opportunities where I can combine strong engineering fundamentals with product ownership to build software that users genuinely enjoy using.
 
 Skills:
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Python 
-Frameworks & Ecosystem: React, Next.js, Redux, Supabase, WebSockets, Web Workers, WebAssembly, Node.js, Preact, MUI 
-Tools & Infrastructure: Git, GitHub Actions (CI/CD), Vite, Webpack, Nx, Jest, Mixpanel, Sentry
+* Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Python 
+* Frameworks & Ecosystem: React, Next.js, Redux, Supabase, WebSockets, Web Workers, WebAssembly, Node.js, Preact, MUI 
+* Tools & Infrastructure: Git, GitHub Actions (CI/CD), Vite, Webpack, Nx, Jest, Mixpanel, Sentry
 
 ### Tools and Technologies
 <div align="center">
