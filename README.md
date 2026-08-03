@@ -4,13 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Software Engineer
 ----------------------------
 
-Software Engineer with strong design and problem-solving skills. Passionate about building Great Products. Working experience with Fortune 500 companies as well as early stage product-based startups. The Mission and Passion of my life is to empower Humanity through Technology.
+I enjoy building products that solve real customer problems.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [mousam.kalita.official@gmail.com](mailto:mousam.kalita.official@gmail.com)
-* 🧠  I'm learning Frontend/React/Javascript
-* 🤝  I'm open to collaborating on Creative projects
-* ⚡  My interests are Art, Rap, Reading books, Psychology, E-sports etc.
+Over the past 5+ years, I've worked across enterprise consulting and early-stage startups, building AI-powered SaaS products, high-scale React applications, and enterprise platforms serving millions of daily digital assets. I've had the opportunity to work directly with founders, designers, marketers, and enterprise customers, turning ideas into production-ready products.
+
+My strongest expertise is in React, TypeScript, Next.js, and frontend architecture, but I'm equally interested in product thinking and enjoy working across the stack when needed using technologies like Node.js, Supabase, PostgreSQL, and AI APIs. I particularly enjoy building AI-native experiences, real-time applications, workflow automation, and developer-focused tools.
+
+Some of the work I'm most proud of includes:
+• Delivering enterprise solutions for organizations including Mercedes, Samsung, Adobe, Shell, Rashtrapati Bhavan, and Accel.
+• Helping architect core features for a platform serving 4M+ daily digital assets.
+• Building AI-powered product experiences and streaming LLM interfaces.
+• Optimizing large-scale media processing using WebAssembly and Web Workers.
+• Working as an early engineering hire to help shape products from 0→1.
+
+I'm always interested in opportunities where I can combine strong engineering fundamentals with product ownership to build software that users genuinely enjoy using.
+
+Skills:
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Python 
+Frameworks & Ecosystem: React, Next.js, Redux, Supabase, WebSockets, Web Workers, WebAssembly, Node.js, Preact, MUI 
+Tools & Infrastructure: Git, GitHub Actions (CI/CD), Vite, Webpack, Nx, Jest, Mixpanel, Sentry
 
 ### Tools and Technologies
 <div align="center">
